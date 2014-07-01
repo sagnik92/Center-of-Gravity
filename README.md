@@ -16,3 +16,4 @@ Finds out the center of gravity (C.G.) of a gray image (matrix structure contain
                                                       CELL(x) and CELL(y):- row and column indices of cell containing 1.
                                                     
     3) Replacing the 1s in the cells with the equivalent distance from the CG. The cells containing 0s are left unaltered.
+
